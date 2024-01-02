@@ -10,7 +10,7 @@
 <div align="center"> 
   <a href="https://www.instagram.com/livya_gdc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:livyagomesdc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/livya-gomes-de-carvalho-78b3ba28a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9900FF&size=20&center=false&vCenter=false&width=1000&lines=Learning+now:)](https://git.io/typing-svg)
